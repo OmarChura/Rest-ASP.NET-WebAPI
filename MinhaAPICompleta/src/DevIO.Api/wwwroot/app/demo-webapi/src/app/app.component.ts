@@ -1,0 +1,11 @@
+import { Component, OnInit, AfterContentInit, AfterViewInit } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  
+})
+
+export class AppComponent {
+  isObject(value: any): boolean { return typeof value === 'object'; }
+}

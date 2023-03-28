@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IDT3VfxMNXse+jVzxdDwtEQB6chEjgeCLyt5WjaDL2aBoyhKDjPWOfDlEfd7mJOJZBNGHMPhZAqF1tv6Apb+ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\Desktop\\Labs\\Rest ASP.NET WebAPI\\Material\\Api-Sem-autenticacao\\6.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

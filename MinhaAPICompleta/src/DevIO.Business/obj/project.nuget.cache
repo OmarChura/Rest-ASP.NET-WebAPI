@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQBOSy72w1AgyLL5D/1JewugCrc8MAIgAR9cOSDmzawTRqPlMhUgnZv8runnKVkcj5UsbCLD5nMvIFFEhW22HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\Desktop\\Labs\\Rest ASP.NET WebAPI\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
